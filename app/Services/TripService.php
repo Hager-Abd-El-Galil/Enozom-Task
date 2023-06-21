@@ -15,7 +15,7 @@ class TripService
     }
 
     function getSuitableTrip($fromStation, $toStation){
-        $this->tripRepository->getSuitableTrip($fromStation, $toStation);
+        return $this->tripRepository->getSuitableTrip($fromStation, $toStation);
     }
 
 }

@@ -81,7 +81,7 @@ class TripStationSeeder extends Seeder
             [
                 'trip_name' => 'Talgo',
                 'trip_number' => 2,
-                'station_name' => 'Cairo',
+                'station_name' => 'Alexandria',
                 'arrival_time' => '09:00:00',
             ],
             [
@@ -94,7 +94,7 @@ class TripStationSeeder extends Seeder
                 'trip_name' => 'French',
                 'trip_number' => 2,
                 'station_name' => 'Banha',
-                'arrival_time' => '07:30:00',
+                'arrival_time' => '08:00:00',
             ],
             [
                 'trip_name' => 'French',
@@ -111,7 +111,7 @@ class TripStationSeeder extends Seeder
             [
                 'trip_name' => 'French',
                 'trip_number' => 2,
-                'station_name' => 'Cairo',
+                'station_name' => 'Alexandria',
                 'arrival_time' => '10:30:00',
             ],
             [
@@ -129,7 +129,7 @@ class TripStationSeeder extends Seeder
             [
                 'trip_name' => 'Spain',
                 'trip_number' => 2,
-                'station_name' => 'Cairo',
+                'station_name' => 'Alexandria',
                 'arrival_time' => '11:30:00',
             ]
 

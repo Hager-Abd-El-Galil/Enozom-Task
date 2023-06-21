@@ -13,6 +13,7 @@ return new class extends Migration
     {
         Schema::create('trips', function (Blueprint $table) {
             $table->id();
+            $table->integer('trip_number');
             $table->string('trip_name');
             $table->timestamps();
         });

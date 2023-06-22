@@ -16,10 +16,10 @@
 - 
 ## RUN
 <pre>
-    http://127.0.0.1:8000/api/getSuitableTrip/1/5
+    http://127.0.0.1:8000/api/getSuitableTrip/{fromStation}/{toStation}
 </pre>
 
-https://github.com/Hager-Abd-El-Galil/Enozom-Task/assets/81237428/cc27031a-9e68-47bf-bd6c-a159b7bfbcc7
+https://github.com/Hager-Abd-El-Galil/Enozom-Task/assets/81237428/5ae36ada-2541-4674-a09d-76b90d2e5123
 
 <div align="center">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
